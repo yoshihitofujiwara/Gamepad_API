@@ -1,5 +1,5 @@
 {
-  "name": "vite-project",
+  "name": "Gamepad API",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "eventemitter3": "^5.0.0",
-    "three": "^0.148.0",
     "vue": "^3.2.45"
   },
   "devDependencies": {

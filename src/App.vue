@@ -52,7 +52,7 @@ const axes = reactive([
 
 <template>
   <div>
-    <h1>Gamepad API DEMO</h1>
+    <h1>Gamepad API</h1>
     <div v-if="buttons.length">
       <div class="btn_wrap">
         <h2>Buttons</h2>
